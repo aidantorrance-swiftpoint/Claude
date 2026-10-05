@@ -1,0 +1,27 @@
+,,,,,,
+TAX INVOICE,,,,,,
+,,,,,,
+,Billing Address,,,Invoice Date,,Sold By
+,Martin Galusinski,,,2026-08-05,,Swiftpoint Limited
+,Althanstraße 4 3/63,,,Invoice Number,,PO Box 80055
+,1090 Wien,,,29721,,Riccarton
+,Austria,,,,,Christchurch 8440
+,,,,,,New Zealand
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,       ,
+Invoice Details,,,,,,
+,,,,,,
+Description,,Quantity,Unit price,VAT rate,Unit price,Item subtotal
+,,,(excl. VAT),,(incl. VAT),(incl. VAT)
+ProPoint,,1.00,$184.51,0%,$184.51,$184.51
+Parking Spot,,1.00,$10.33,0%,$10.33,$10.33
+,,,,,,
+Shipping,,1.00,$26.48,0%,$26.48,$26.48
+,,,,,,
+,,,Invoice Total (USD),,,$221.32
+,,,,VAT Rate,Item subtotal,VAT subtotal
+,,,,,(excl. VAT),
+,,,,0%,$221.32,$0.00
+,,,Total,,$221.32,$0.00
