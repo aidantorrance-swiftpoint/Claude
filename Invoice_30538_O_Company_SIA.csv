@@ -1,0 +1,27 @@
+,,,,,,
+TAX INVOICE,,,,,,
+,,,,,,
+,Billing Address,,,Invoice Date,,Sold By
+,O Company  SIA,,,2026-08-26,,Swiftpoint Limited
+,Reg. No. 44103112274,,,Invoice Number,,PO Box 80055
+,Helmaņa iela 1-10,,,30538,,Riccarton
+,Sigulda LV-2150,,,,,Christchurch 8440
+,Latvia,,,,,New Zealand
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,       ,
+Invoice Details,,,,,,
+,,,,,,
+Description,,Quantity,Unit price,VAT rate,Unit price,Item subtotal
+,,,(excl. VAT),,(incl. VAT),(incl. VAT)
+Swiftpoint Z3,,1.00,$205.06,0%,$205.06,$205.06
+,,,,,,
+,,,,,,
+Shipping,,1.00,$17.42,0%,$17.42,$17.42
+,,,,,,
+,,,Invoice Total (USD),,,$222.48
+,,,,VAT Rate,Item subtotal,VAT subtotal
+,,,,,(excl. VAT),
+,,,,0%,$222.48,$0.00
+,,,Total,,$222.48,$0.00
