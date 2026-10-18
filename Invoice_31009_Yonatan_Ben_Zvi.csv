@@ -1,0 +1,27 @@
+,,,,,,
+TAX INVOICE,,,,,,
+,,,,,,
+,Billing Address,,,Invoice Date,,Sold By
+,Yonatan Ben Zvi,,,2026-09-07,,Swiftpoint Limited
+,Hametzuda Street 27,,,Invoice Number,,PO Box 80055
+,Azor 5800171,,,31009,,Riccarton
+,Israel,,,,,Christchurch 8440
+,,,,,,New Zealand
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,       ,
+Invoice Details,,,,,,
+,,,,,,
+Description,,Quantity,Unit price,VAT rate,Unit price,Item subtotal
+,,,(excl. VAT),,(incl. VAT),(incl. VAT)
+Swiftpoint Z3,,1.00,$204.13,0%,$204.13,$204.13
+,,,,,,
+,,,,,,
+Shipping,,1.00,$17.59,0%,$17.59,$17.59
+,,,,,,
+,,,Invoice Total (USD),,,$221.72
+,,,,VAT Rate,Item subtotal,VAT subtotal
+,,,,,(excl. VAT),
+,,,,0%,$221.72,$0.00
+,,,Total,,$221.72,$0.00
